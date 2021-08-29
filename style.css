@@ -324,13 +324,13 @@ section .title::after{
     width: 60%;
 }
 .skills .skill-content .right .Javascript::before{
-    width: 70%;
+    width: 50%;
 }
 .skills .skill-content .right .PHP::before{
-    width: 20%;
+    width: 80%;
 }
 .skills .skill-content .right .MySQL::before{
-    width: 50%;
+    width: 70%;
 }
 
 
